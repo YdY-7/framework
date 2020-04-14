@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="4 個のリソースを削除" deleteContents="false" description="4 個のリソースを削除" element1="/Webproj" element2="/Webproj2" element3="/Webproj3" element4="/Webproj4" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1586877543336"/>
+</session>
