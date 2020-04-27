@@ -32,7 +32,7 @@
 	<s:form method="post" action="TestAction">
 		<s:textfield name="username"/>
 		<s:password name="password"/>
-		<s:submit name="送信"/>
+		<s:submit value="送信"/>
 	</s:form>
 
 </body>
