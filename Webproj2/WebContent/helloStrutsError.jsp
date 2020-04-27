@@ -3,7 +3,7 @@
 <!DOCTYPE>
 <html>
 <head>
-<meta charset=UTF-8">
+<meta charset="UTF-8">
 <title>HelloStrutsError</title>
 </head>
 <body>
